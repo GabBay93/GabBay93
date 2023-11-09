@@ -2,12 +2,11 @@
  Hi there 👋
  <p align="center">
  It took me a *long* time to get this far 🖥️
- <p align="center">
- I am testing all kinds of things on this page, excuse the chaos.
+ <p align="center"> I am testing all kinds of things on this page, excuse the chaos. </p>
+
  
 
-![giphy 1](https://github.com/GabBay93/GabBay93/assets/150300928/68914206-288a-4972-af75-079c07f5fb4d)
-
+<p align="center"> <img src="https://github.com/GabBay93/GabBay93/assets/150300928/68914206-288a-4972-af75-079c07f5fb4d" alt="Dancing Grugu" width="300" height="200"> </p> 
 
 
 <!--
