@@ -5,7 +5,7 @@ https://www.canva.com/design/DAFzt-e7zv0/15bNLPQEFswqHo7po2RkzA/edit?utm_content
 <p align="center">
  Hi there 👋
  <p align="center">
- It took me a *long* time to get this far 🖥️
+ It took me a *long* time to get this far 🖥️ I hope you are enjoying watching this go back and forth- im  having a good time lol
  <p align="center"> I am testing all kinds of things on this page, excuse the chaos. </p>
 
 <p align="center"> <img src="https://plus.unsplash.com/premium_photo-1699372281605-862486bb5a5b?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cookies" width="250" height="300"> </p> 
